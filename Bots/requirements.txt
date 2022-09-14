@@ -1,0 +1,7 @@
+tkinter-page
+joblib
+selenium
+fake-useragent
+requests
+Faker
+easyocr
